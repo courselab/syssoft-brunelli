@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: hello-world
+Upstream-Contact: Brunelli <gubrunelli@hotmail.com>
+Source: git@github.com:GBrunelli/hello-world.git
+
+Files: */.dist
+Copyright: Brunelli <gubrunelli@hotmail.com>
+License: CC0-1.0
+

@@ -13,11 +13,15 @@
 
 int main(void)   
 {
-  printf ("Hello World");
+  int mem_size;
+  char buffer[20];
+  
+  mem_size = get_memory_size();
+  
+  int_to_str(mem_size, buffer);
+  
+  printf("Conventional memory size: ");
+  printf(buffer);
+  printf(" KiB\n");
   return 0;
 }
-
-
-
-
-

@@ -12,5 +12,7 @@
 #define E8_H
 
 void __attribute__((fastcall, naked)) printf(const char *); 
+extern void __attribute__((fastcall)) int_to_str(int num, char *buffer);
+extern int get_memory_size(void);
 
 #endif	

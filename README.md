@@ -21,13 +21,8 @@
  Overview
  ------------------------------
 
- <!-- Delete this comment:
-
-   * Extend this content with information about your awesome project.
-
-   * See .tools/readme.md for detailed instructions.
-
- -->
+ Currently, this project only implements the hello exercise, which is located in the `hello` directory.
+ The exercise demonstrates BIOS interaction to retrieve system memory size and implements custom string conversion functions to display the result.
 
  Licensing
  -----------------------------
@@ -40,4 +35,3 @@
  their respective licenses, as annotated in each individual file.
 
  See the terms of each license under the directory LICENSES. 
-

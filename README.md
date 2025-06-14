@@ -1,14 +1,16 @@
-#    SPDX-FileCopyrightText: 2025 Brunelli
-#   
-#    SPDX-License-Identifier: GPL-3.0-or-later
-#
-#  This file is a derivative of SYSeg (https://gitlab.com/monaco/syseg)
-#  and includes modifications made by the following author(s):
-#  Brunelli <gubrunelli@hotmail.com>
+<!---
+  SPDX-FileCopyrightText: 2025 Brunelli
+
+  SPDX-License-Identifier: GPL-3.0-or-later
+  
+  This file is a derivative of SYSeg (https://gitlab.com/monaco/syseg)
+  and includes modifications made by the following author(s):
+  Brunelli <gubrunelli@hotmail.com>
+-->
 
  This is free software distributed under the terms of the GNU General Public 
  License version 3 of the license or, at your discretion, any later version. 
- See section 'Licensing' bellow for further information._
+ See section 'Licensing' bellow for further information.
 
  About
  ==============================
